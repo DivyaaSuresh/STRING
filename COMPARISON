@@ -1,0 +1,5 @@
+echo -n "Enter the first string : " read s1 echo 
+n "Enter the second string : " read s2 if [ $s1 
+== $s2 ] then 
+echo "Strings are the same" else 
+echo "Strings are distinct" fi
